@@ -1,4 +1,5 @@
-# Growth Mindset
+# Luis Sandoval
+## Growth Mindset
 ## So what is it?
  A growth mindset is the belief that you can accomplish anything you want based on sheer will and effort alone. It's the idea to *embrace the suck*, and improvise, adapt and overcome any obstacle in your way. 
  
@@ -14,4 +15,4 @@
  
  > Embrace the suck.
 
-[GitHub](https://github.com/luismsandoval)
+[GitHub](https://github.com/luismsandoval) 
