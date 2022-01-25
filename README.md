@@ -1,6 +1,6 @@
 # reading-notes
-102 reading notes for code fellows
+## 102 reading notes for code fellows
  
- Hello, world!
+### Hello, world!
  
  My name is Luis.
