@@ -15,4 +15,4 @@ Here are some important feature to look out for:
   - The use of themes allows for customization of your terminal. This can change the color of the background, text, et cetera to something more to your liking. Personally, I'm a dark mode kind of guy. This is going to not only personalize your workspace but can reduce eye strain as well.
 - Extensions
   - The ability to add *plug-ins* to your text editor can help allow you to do things that you would not have been able to do otherwise. This means as your needs change, your text editor has the capability to change with it.
- # unfinished 1/25 will resume 1/26
+# unfinished 1/25 will resume 1/26
