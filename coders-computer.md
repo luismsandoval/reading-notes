@@ -3,9 +3,9 @@ Luis Sandoval Code 102
 ## What makes a computer a *Coder's Computer*?
 The main thing that makes a coders computer is the tool that that developer uses. This tool is known as a *text editor*. So long as any text editor is installed on the computer, that devoloper can work.
 
-## Well, what's a *text editor*?
+### Well, what's a *text editor*?
 Exactly what it sounds like. It is a software that can used on your computer that allows you to write and manage text. This is especially important for devolopers that need to write code.
-#### What should I look for in a text editor?
+### What should I look for in a text editor?
 Here are some important feature to look out for:
 - Code completion
   - This feature acts almost like a *predictive text* to make writing code faster and easier.
@@ -15,4 +15,11 @@ Here are some important feature to look out for:
   - The use of themes allows for customization of your terminal. This can change the color of the background, text, et cetera to something more to your liking. Personally, I'm a dark mode kind of guy. This is going to not only personalize your workspace but can reduce eye strain as well.
 - Extensions
   - The ability to add *plug-ins* to your text editor can help allow you to do things that you would not have been able to do otherwise. This means as your needs change, your text editor has the capability to change with it.
-# unfinished 1/25 will resume 1/26
+
+It is inherent that you choose the right software for you. This can depend on a number of different factors including the coding language you will be using and the operating system on your computer. No one text editor is perfect, so try them all out and see what works best for you!
+
+### Here are some basic navigation commands we can try in our terminal:
+
+- pwd: The *present working directory* command is going to tell you in what directory you are currently located in.
+- ls: The *list* command will list all of the contents of a directory.
+- cd: The *change direction* command allows the user to move to a different directory.
