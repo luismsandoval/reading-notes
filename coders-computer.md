@@ -1,5 +1,5 @@
 # The Coders Computer
-Luis Sandoval Code 102
+
 ## What makes a computer a *Coder's Computer*?
 The main thing that makes a coders computer is the tool that that developer uses. This tool is known as a *text editor*. So long as any text editor is installed on the computer, that devoloper can work.
 
