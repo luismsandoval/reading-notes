@@ -24,18 +24,18 @@ Git is a *DVCS*! Let's go over some basic features.
 
 ### Downloading Git
 
-### Mac OS X
+### **Mac OS X**
 
 - Terminal: Run Git from the Terminal, if not installed, you will be prompted.
 - Git Website: [Download](http://git-scm.com/download/mac)
 - GitHub: [Download](http://mac.github.com)
 
-### Windows
+### **Windows**
 
 - Git Website: [Download](http://git-scm.com/download/win)
 - GitHub: [Download](http://windows.github.com)
 
-### Linux
+### **Linux**
 
 - Package Manager:
   - For Fedora: 
@@ -48,4 +48,93 @@ Git is a *DVCS*! Let's go over some basic features.
   ```
 - Git Website: [Download](http://git-scm.com/download/linux)
 
-### 
+### Graphical Clients 
+
+There are plenty of Graphical User Interface(GUI) tools. [Here](https://git-scm.com/downloads/guis) are some GUI clients to try out.
+
+### Initial Customization 
+
+Before we use Git, first we need to perform some changes. You will only need to do this **once** on any machine, however if you do need to change some settings, repeat the following steps.
+
+#### *Configuration of Variables*
+
+Use thie following command to configure settings in Git.
+
+```
+git config
+```
+
+#### *Identity Setting*
+
+After installing Git, users first need to set up their username and email address.
+
+Use the following command:
+
+```
+git config --global user.name "My Name"
+
+git config --global user.email "myemail@email.com"
+```
+
+Use the following command to confirm your settings are correct:
+
+```
+git config --global user.name (should return My Name)
+
+git config --global user.email (should return myemail@email.com)
+```
+*global applies these settings to anything on the system.
+
+### Check Settings
+
+```
+git config --list
+```
+
+### Getting Help
+
+Try these commands to access the manual for further help.
+
+```
+git help command
+
+git command --help
+
+man git-command
+```
+
+## Now that Git is ready, let's set up our Git Repository
+
+### Importing
+
+Follow these steps:
+
+1. Switch to the project's directory.
+2. Use the git init command to creat a new git repository.
+
+```
+$ git init
+```
+
+3. To track these repositories, perform an initial commit by using the following commands:
+
+```
+$ git add *.c
+
+$ git add LICENSE
+
+$ git commit -m "any notes here"
+```
+
+### Cloning
+
+To create a copy of an *existing* Git Repository from a server like GitHub, use the following command in the project directory:
+
+```
+$ git clone https://github.com/mycoolgitpage
+```
+
+This clone copies all files for a project into a new directory called "mycoolgitpage"
+
+## Workflow
+
