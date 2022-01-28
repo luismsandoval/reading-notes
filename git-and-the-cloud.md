@@ -22,6 +22,8 @@ Git is a *DVCS*! Let's go over some basic features.
 
 ## Let's *Git it*!
 
+### Downloading Git
+
 ### Mac OS X
 
 - Terminal: Run Git from the Terminal, if not installed, you will be prompted.
@@ -45,3 +47,5 @@ Git is a *DVCS*! Let's go over some basic features.
   $ sudo apt-get install git
   ```
 - Git Website: [Download](http://git-scm.com/download/linux)
+
+### 
