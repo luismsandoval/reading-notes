@@ -40,9 +40,9 @@ All **variables** must be identifies by unique IDs. It can be anything you want 
 
 - Can begin with $ and _
 
--Names are case sensitive (y and Y are different variables)
+- Names are case sensitive (y and Y are different variables)
 
--Reserved words (like JavaScript keywords) cannot be used
+- Reserved words (like JavaScript keywords) cannot be used
 
 ## Assignment Operator
 
