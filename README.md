@@ -10,3 +10,4 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 4. [HTML](html.md)
 5. [CSS](css.md)
 6. [JavaScript](javascript.md)
+7. [JavaScript Continued](javascriptcont.md) 
