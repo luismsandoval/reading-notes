@@ -33,3 +33,5 @@ To set a color you can use different values.
 - HSL value ```body {color: hsl(89, 43%, 51%);}```
 
 - HSLA value ```body {color: hsla(89, 43%, 51%, 0.6);}```
+
+[Back](html.md) [Next](javascript.md)

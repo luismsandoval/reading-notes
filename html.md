@@ -59,3 +59,4 @@ These elements have no content.
 <img src="images/firefox-icon.png" alt="My test image">
 ```
 
+[Back](git-and-the-cloud.md) [Next](css.md)

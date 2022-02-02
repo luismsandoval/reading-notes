@@ -39,6 +39,6 @@ It is inherent that you choose the right software for you. This can depend on a 
 - **Linux is extensionless.** Files do not need any extension.
 - ***LINUX IS CASE SENSITIVE***
 
-[Home](https://luismsandoval.github.io/reading-notes/) [GitHub](https://github.com/luismsandoval)
+[GitHub](https://github.com/luismsandoval)
 
-I made a change here
+[Back](README.md) [Next](coders-computer.md)
