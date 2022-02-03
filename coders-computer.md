@@ -41,4 +41,4 @@ It is inherent that you choose the right software for you. This can depend on a 
 
 [GitHub](https://github.com/luismsandoval)
 
-[Back](README.md) [Next](coders-computer.md)
+[Back](growth-mindset.md) [Next](git-and-the-cloud.md)

@@ -133,3 +133,5 @@ text1 += "nice day";
 - typeof Returns the type of variable
 
 - instanceof Returns true if an object is an instance of an object type
+
+[Back](javascript.md) [Next](operators-and-loops.md)

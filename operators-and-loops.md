@@ -130,3 +130,5 @@ while (true) {
   console.log('Hello, world!');
 }
 ```
+
+[Back](javascriptcont.md)

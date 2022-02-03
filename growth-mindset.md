@@ -14,3 +14,5 @@ Simple, having a growth mindest will help you accomplish more of your goals. And
  > Embrace the suck.
 
 [GitHub](https://github.com/luismsandoval) 
+
+[Back](README.md) [Next](coders-computer.md)
