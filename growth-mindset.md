@@ -8,7 +8,7 @@ Simple, having a growth mindest will help you accomplish more of your goals. And
 ### "What if I don't feel like I have the right mindset?"
 #### **Here are some tips to keep in mind:**
  - **Always look forward to challenges.** Facing tough challenges will push your skills to the limit and only help. Never run away from a challenge.
- - **Always put forth close to max effort.** You will just regret it later if you do not. *No pain, no gain* amirite? 😆 
+ - **Always put forth close to max effort.** You will just regret it later if you do not. *No pain, no gain* amirite? :laughing: 
  - **Take the time to criticize yourself.** Do some self reflecting and ask yourself, *"What did I do great today? And what did I do wrong? How can I fix it?"*
  
  > Embrace the suck.
