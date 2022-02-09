@@ -4,10 +4,11 @@
 
 ## About Me
 
-Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seattle, WA. I recently seperated from the United States Marine Corps in March 2021. I have always been obsessed with tech and its advances and I am passionate about building the web of the future. Please follow along on my journey as I become a fullstack web developer. :)
-
+Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seattle, WA. I recently seperated from the United States Marine Corps in March 2021. I have always been obsessed with tech and its advances and I am passionate about building the web of the future. Please follow along on my journey as I become a fullstack web developer. :grin:
 
 ## Table of Contents
+
+### Code 102
 1. [Growth Mindset](growth-mindset.md)
 2. [The Coders Computer](coders-computer.md)
 3. [Git and the Cloud](git-and-the-cloud.md) 
@@ -16,3 +17,20 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 6. [JavaScript](javascript.md)
 7. [JavaScript Continued](javascriptcont.md) 
 8. [Operators and Loops](operators-and-loops.md)
+
+### Code 201
+1. []()
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
+12. []()
+13. []()
+14. []()
+15. []()
