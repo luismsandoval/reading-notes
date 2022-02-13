@@ -19,7 +19,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 8. [Operators and Loops](operators-and-loops.md)
 
 ### Code 201
-1. []()
+1. [Class 1](class-01.md)
 2. []()
 3. []()
 4. []()
