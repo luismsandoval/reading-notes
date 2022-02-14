@@ -20,7 +20,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 
 ### Code 201
 1. [Class 1](class-01.md)
-2. []()
+2. [Class 2](class-02.md)
 3. []()
 4. []()
 5. []()
