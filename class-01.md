@@ -47,12 +47,14 @@
 - **Grouping text & elements inline**: the `<span>` element is an inline equivalent of the `<div>`
 
 - **iframes**: Inline frame is window on your webpage that shows another page. Think of a google maps iframe that you might see on the bottom of a business' web page. Inside the iframe ther will be the width, height, and source. i.e.
+
     ```
     <iframe
     width="100"
     height="100"
     src="link">
     </iframe>
+    ```
 
 - **Information about your page**: `<meta>` is used in the `<head>` element and contains info about the web page.
 
