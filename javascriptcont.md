@@ -124,7 +124,7 @@ text1 += "nice day";
 
 - && logical and
 
-- || logical or
+- \|| logical or
 
 - ! logical not
 
