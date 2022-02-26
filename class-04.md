@@ -4,7 +4,7 @@
 
 Links are created by using the `<a>` element and the link is specified by `href=""`
 
-```
+```html
 <a href="https://www.google.com/"> Google </a>
 ```
 
@@ -16,7 +16,7 @@ To link to another website, we must use absolute URLs, like the example above.
 
 To link to a page on the same site, we can use relative links.
 
-```
+```html
 <a href="about-me.html"> About me </a>
 ```
 
@@ -24,7 +24,7 @@ To link to a page on the same site, we can use relative links.
 
 To create a link that opens the email program to a specific email, we use `mailto:`
 
-```
+```html
 <a href="mailto:connect@me.com"> Contact me </a>
 ```
 
@@ -32,7 +32,7 @@ To create a link that opens the email program to a specific email, we use `mailt
 
 To have a link open in a new window, we will use the `target` attribute with a value of `_blank`
 
-```
+```html
 <a href="https://www.google.com/" target="_blank"> Google </a>
 ```
 
@@ -40,7 +40,7 @@ To have a link open in a new window, we will use the `target` attribute with a v
 
 To link a user to a specific part of the page, for example, from the bottom of the webpage back to the top, we will use that elements ID tag.
 
-```
+```html
 <a href="#top"> Back to top </a>
 ```
 
@@ -76,7 +76,7 @@ A function is a group of statements put together to perform a specific task.
 
 ### Declaring a function
 
-```
+```javascript
 function myFunction() {
   document.write('Hello world');
 }
@@ -84,7 +84,7 @@ function myFunction() {
 
 ### Calling a function
 
-```
+```javascript
 myFunction();
 ```
 
@@ -92,14 +92,14 @@ myFunction();
 
 Parameters are used like variables in a function, and give the function specific information.
 
-```
+```javascript
 function myFunction(parameter1, parameter2) {
   document.write(parameter1 + parameter2);
 }
 ```
 
-To call a function that needs information, simply give value to the parameters.
+To call a function that needs information, simply give value to the parameters, making them arguments.
 
-```
+```javascript
 myFunction('Hello' + 'world');
 ```
