@@ -15,7 +15,7 @@ Inside the `<img>` tag lives the *src* attribute, *alt* attribute, and *title* a
 - title: provides additional information about the image.
 
 ```html
-<img src:"images/img.jpg" alt:"image" title:"this is an image">
+<img src="images/img.jpg" alt="image" title="this is an image">
 ```
 
 3 rules to live by:
