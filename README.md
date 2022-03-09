@@ -26,7 +26,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 5. [Class 5](class-05.md)
 6. [Class 6](class-06.md)
 7. [Class 7](class-07.md)
-8. []()
+8. [Class 8](class-08.md)
 9. []()
 10. []()
 11. []()
