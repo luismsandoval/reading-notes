@@ -29,8 +29,9 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 8. [Class 8](class-08.md)
 9. [Class 9](class-09.md)
 10. [Class 10](class-10.md)
-11. []()
-12. []()
-13. []()
-14. []()
-15. []()
+11. [Class 11](class-11.md)
+12. [Class 12](class-12.md)
+13. [Class 13](class-13.md)
+14. [Class 14](class-14.md)
+
+### Code 301
