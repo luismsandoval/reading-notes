@@ -9,6 +9,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 ## Table of Contents
 
 ### Code 102
+
 1. [Growth Mindset](growth-mindset.md)
 2. [The Coders Computer](coders-computer.md)
 3. [Git and the Cloud](git-and-the-cloud.md) 
@@ -19,6 +20,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 8. [Operators and Loops](operators-and-loops.md)
 
 ### Code 201
+
 1. [Class 1](class-01.md)
 2. [Class 2](class-02.md)
 3. [Class 3](class-03.md)
