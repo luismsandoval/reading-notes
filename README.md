@@ -43,3 +43,6 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 3. [Class 3](code301/class-03.md)
 4. [Class 4](code301/class-04.md)
 5. [Class 5](code301/class-05.md)
+6. [Class 6](code301/class-06.md)
+7. [Class 7](code301/class-07.md)
+8. [Class 8](code301/class-08.md)
