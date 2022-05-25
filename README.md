@@ -1,6 +1,6 @@
 # Luis Sandoval
 
-![Me](IMG-1627.JPG)
+![Me](img/IMG-1627.JPG)
 
 ## About Me
 
@@ -47,3 +47,4 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 7. [Class 7](code301/class-07.md)
 8. [Class 8](code301/class-08.md)
 9. [Class 9](code301/class-09.md)
+10. [Class 10](code301/class-10.md)
