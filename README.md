@@ -51,5 +51,5 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 11. [Class 10](#)
 12. [Class 10](#)
 13. [Class 10](#)
-14. [Class 14](#)
+14. [Class 14](code301/class-14.md)
 15. [Class 10](code301/class-15.md)
