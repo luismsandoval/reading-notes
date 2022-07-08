@@ -1,4 +1,4 @@
-# Luis Sandoval
+# Reading Notes
 
 ![Me](img/IMG-1627.JPG)
 
@@ -8,7 +8,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 
 ## Table of Contents
 
-### Code 102
+### Code 102 - Intro to Software Development
 
 1. [Growth Mindset](code102/growth-mindset.md)
 2. [The Coders Computer](code102/coders-computer.md)
@@ -19,7 +19,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 7. [JavaScript Continued](code102/javascriptcont.md) 
 8. [Operators and Loops](code102/operators-and-loops.md)
 
-### Code 201
+### Code 201 - Foundations of Software Development
 
 1. [Class 1](code201/class-01.mdclass-01.md)
 2. [Class 2](code201/class-02.md)
@@ -36,7 +36,7 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 13. [Class 13](code201/class-13.md)
 14. [Class 14](code201/class-14.md)
 
-### Code 301
+### Code 301 - Intermediate Software Development
 
 1. [Class 1](code301/class-01.md)
 2. [Class 2](code301/class-02.md)
@@ -53,3 +53,5 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 13. [Class 13](code301/class-13.md)
 14. [Class 14](code301/class-14.md)
 15. [Class 15](code301/class-15.md)
+
+### Code 401 - Advanced Software Development
