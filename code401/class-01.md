@@ -1,7 +1,5 @@
 # Node Ecosystem
 
-## [What Is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
-
 1. How would you describe Node to a non-technical friend?
 
    - Node is used for developing apps that require a connection from the client to the server.
@@ -13,3 +11,7 @@
 3. What is Node used for?
 
    - It's used to install(via `npm`) and run build tools. i.e. `dotenv, express, jest`
+
+## Sources
+
+- [What Is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
