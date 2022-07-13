@@ -73,3 +73,13 @@
 3. Explain how GitHub fits into this process assuming the listener comes from a non-technical background.
 
    - GitHub sends messages about the code to be integrated by running automated tests.
+
+## Sources
+
+[An introduction to NodeJS and Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+
+[What is NPM?](https://docs.npmjs.com/getting-started/what-is-npm)
+
+[What is TDD?](https://www.agilealliance.org/glossary/tdd/)
+
+[CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8)
