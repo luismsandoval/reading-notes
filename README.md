@@ -58,3 +58,4 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 
 1. [Introduction to SQL](code401/SQL.md)
 2. [Class 1](code401/class-01.md)
+3. [Class 2](code401/class-02.md)
