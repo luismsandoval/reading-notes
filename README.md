@@ -12,11 +12,11 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 
 1. [Growth Mindset](code102/growth-mindset.md)
 2. [The Coders Computer](code102/coders-computer.md)
-3. [Git and the Cloud](code102/git-and-the-cloud.md) 
+3. [Git and the Cloud](code102/git-and-the-cloud.md)
 4. [HTML](code102/html.md)
 5. [CSS](code102/css.md)
 6. [JavaScript](code102/javascript.md)
-7. [JavaScript Continued](code102/javascriptcont.md) 
+7. [JavaScript Continued](code102/javascriptcont.md)
 8. [Operators and Loops](code102/operators-and-loops.md)
 
 ### Code 201 - Foundations of Software Development
@@ -59,3 +59,4 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 1. [Introduction to SQL](code401/SQL.md)
 2. [Class 1](code401/class-01.md)
 3. [Class 2](code401/class-02.md)
+4. [Class 3](code401/class-03.md)

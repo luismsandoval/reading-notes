@@ -6,7 +6,7 @@
 
    - Middleware is functions that perform some operation on the rew or res, then calls the next function in the stack.
 
-2. Express the most popular \_\_ ** \_\_**.
+2. Express the most popular \_\_ \_\_.
 
    - _Node web framework_
 
