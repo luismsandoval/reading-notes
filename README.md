@@ -60,3 +60,4 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 2. [Class 1](code401/class-01.md)
 3. [Class 2](code401/class-02.md)
 4. [Class 3](code401/class-03.md)
+5. [Class 4](code401/class-04.md)
