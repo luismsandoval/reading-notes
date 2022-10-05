@@ -12,7 +12,9 @@
 
    -
 
-3. Hooks allow you to reuse stateful logic without changing **\_ **\_\*\*\*\*.
+3. Hooks allow you to reuse stateful logic without changing **\_\_\_**.
+
+   - component hierarchy
 
 # hooks api
 
