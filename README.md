@@ -86,3 +86,5 @@ Hi everyone! My name is Luis Sandoval and I am a student at Code Fellows in Seat
 28. [Class 27](code401/class-27.md)
 29. [Class 28](code401/class-28.md)
 30. [Class 29](code401/class-29.md)
+31. [Class 30](code401/class-29.md)
+32. [Class 31](code401/class-31.md)
